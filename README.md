@@ -11,7 +11,7 @@
 I build modern web apps and scalable digital experiences.
 
 ### Wanna know more?  
-👉 <a href="https://raymond-studio.netlify.app/more"><b>Ask my Personal AI</b></a>
+👉 <a href="https://raymondstudio.dev/more"><b>Ask my Personal AI</b></a>
 
 ---
 
